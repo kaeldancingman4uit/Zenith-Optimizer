@@ -44,3 +44,4 @@ Those who want automatic optimization without complicated settings
 Zenith Optimizer is maximum efficiency without risk or interference.
 Pure optimization. Stable performance. Reliable results.
 
+DOWNLOAD: https://github.com/kaeldancingman4uit/Zenith-Optimizer/releases/tag/Zenith-Optimizer
